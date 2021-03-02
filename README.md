@@ -1,5 +1,5 @@
 
-<h1>Moveit</h1>
+<h1 align="center">Moveit</h1>
 
 <h3>Projeto desenvolvido durante a Next Level Week 4 - Rocketseat</h3>
 
