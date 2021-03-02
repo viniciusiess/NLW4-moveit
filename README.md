@@ -18,15 +18,15 @@
 <h4>Como instalar:</h4>
 <p>Será necessário ter instalado git, node, yarn/npm</p>
 
-# Clone o repositório
+<p>Clone o repositório</p>
 $ git clone https://github.com/viniciusiess/NLW4-moveit-nextJS.git
 
-# Instalar todas dependencias
+<p>Instalar todas dependencias</p>
 $ yarn add
 
-# Rodar o projetpo
+<p>Rodar o projetpo</p>
 $ yarn dev
 
-<h1>Autor:</h4>
+<h4>Autor:</h4>
 
 <p>Vinicius Siess</p>
