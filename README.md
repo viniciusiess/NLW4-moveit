@@ -3,7 +3,7 @@
 
 <h3 align="center">Projeto desenvolvido durante a Next Level Week 4 - Rocketseat</h3>
 
-![Alt Text]https://github.com/viniciusiess/NLW4-moveit-nextJS/issues/1#issue-821391361)
+<img src="https://github.com/viniciusiess/NLW4-moveit-nextJS/issues/1#issue-821391361"/>
 
 <p align="center">Moveit - Tenha períodos de intervalo para se exercitar a cada 25 minutos, a cada ciclo completado você irá ganhar pontos de xp para avançar ao próximo level. Tenha um dia de trabalho mais saúdavel utilizando essa aplicação!</p>
 
