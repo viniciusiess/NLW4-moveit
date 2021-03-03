@@ -3,6 +3,8 @@
 
 <h3 align="center">Projeto desenvolvido durante a Next Level Week 4 - Rocketseat</h3>
 
+![Alt Text]https://github.com/viniciusiess/NLW4-moveit-nextJS/issues/1#issue-821391361)
+
 <p align="center">Moveit - Tenha períodos de intervalo para se exercitar a cada 25 minutos, a cada ciclo completado você irá ganhar pontos de xp para avançar ao próximo level. Tenha um dia de trabalho mais saúdavel utilizando essa aplicação!</p>
 
 <h4>Tecnologias:</h4>
@@ -30,4 +32,4 @@ $ yarn dev
 <h4>Autor:</h4>
 
 <p>Vinicius Siess</p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-siess-5085a11a3/)](https://www.linkedin.com/in/vinicius-siess-5085a11a3/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vinicius-siess)](www.linkedin.com/in/vinicius-siess)
